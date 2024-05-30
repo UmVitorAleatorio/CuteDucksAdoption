@@ -1,0 +1,10 @@
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\bin\Debug\CuteDucksAdoption.exe.config
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\bin\Debug\CuteDucksAdoption.exe
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\bin\Debug\CuteDucksAdoption.pdb
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\obj\Debug\CuteDucksAdoption.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\obj\Debug\CuteDucksAdoption.Form1.resources
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\obj\Debug\CuteDucksAdoption.Properties.Resources.resources
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\obj\Debug\CuteDucksAdoption.csproj.GenerateResource.cache
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\obj\Debug\CuteDucksAdoption.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\obj\Debug\CuteDucksAdoption.exe
+C:\Users\vitor\source\repos\Tarefa8\CuteDucksAdoption\CuteDucksAdoption\obj\Debug\CuteDucksAdoption.pdb
